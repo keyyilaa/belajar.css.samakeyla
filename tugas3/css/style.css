@@ -1,0 +1,62 @@
+h1{
+    color: blue;
+    font-family: arial;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    text-indent: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    color: aqua;
+    font-family: arial;
+}
+li{
+    color: lightseagreen;
+    font-size: 12px;
+    font-family: arial;
+}
+.ZB1{
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+}
+#judulnya {
+    color: lightseagreen;
+    text-align: center;
+    border: 2px solid lightskyblue;
+    border-radius: 50px;
+    padding-bottom: 2px;
+}
+img {
+    width: 600px;
+    height: auto;
+    border-radius: 30px;
+    border: 2px solid blue;
+    display: block;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.a, .b, .c {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+button {
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    border-radius: 5px;
+    border-color: blue;
+    font-size: 24px;
+    color: lightsalmon;
+    margin-top: 1rem;
+}
+.button:hover {
+    background-color: rgb(52, 52, 155);
+}
+.button:active {
+    background-color: lightblue;
+    box-shadow: 0 2px lightseagreen;
+}
